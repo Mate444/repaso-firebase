@@ -1,6 +1,6 @@
 export const product = {
-  name: 'Rollers',
-  price: 800,
-  id: 1,
-  quantity: 3
+  name: 'bola',
+  price: 40.59,
+  description: 'bola para el billar',
+  stock: 5
 }
